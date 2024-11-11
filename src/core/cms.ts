@@ -7,6 +7,6 @@ export class CMS {
   }
 
   initialize() {
-    console.log("CMS Initialized with plugins:", this.plugins);
+    console.log("CMS Initialized with plugins 123:", this.plugins);
   }
 }

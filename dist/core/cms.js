@@ -10,7 +10,7 @@ class CMS {
         this.plugins.push(plugin);
     }
     initialize() {
-        console.log("CMS Initialized with plugins:", this.plugins);
+        console.log("CMS Initialized with plugins 123:", this.plugins);
     }
 }
 exports.CMS = CMS;
