@@ -5,6 +5,6 @@ exports.seoPlugin = void 0;
 exports.seoPlugin = {
     name: "SEO Plugin",
     initialize() {
-        console.log("SEO Plugin initialized");
+        return "olas";
     }
 };
